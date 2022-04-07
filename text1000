@@ -18,9 +18,9 @@ Binary search runs in logarithmic time in the worst case, making {\displaystyle 
 
 There are numerous variations of binary search. In particular, fractional cascading speeds up binary searches for the same value in multiple arrays. Fractional cascading efficiently solves a number of search problems in computational geometry and in numerous other fields. Exponential search extends binary search to unbounded lists. The binary search tree and B-tree data structures are based on binary search.
 
-
 Contents
 1 Algorithm
+
 1.1 Procedure
 1.1.1 Alternative procedure
 1.2 Duplicate elements
